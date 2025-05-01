@@ -3,7 +3,7 @@
 1. Zhen, Christina - 811674601 - https://github.com/cz67968/MIST-Group-5-Project-2/blob/main/README.md
 2. Arfath, Rushil - 811460339 - https://github.com/R1Arafath/Group-5-project-2
 3.  Fontoura, Gabriel - 811794390 - https://github.com/gof98446/Project-2/blob/main/README.md
-4.  Snow, Luke - 811958066 - 
+4.  Snow, Luke - 811958066 -  https://github.com/lrs84323/MIST-Group-5-Project-2
 5.  Khan, Azaan - 811686335 - https://github.com/Azaank09/MIST-Group-5-Project-2/blob/main/README.md
 
 # Project Description: 
